@@ -1,0 +1,2098 @@
+
+09/08/19at  20:38:02 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  +        3377  /usr/bin/pulseaudio  
+09/08/19at  20:38:02 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       3379  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:02 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3380  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:04 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24619       18220         58%        /dev/sda4  
+
+
+09/08/19at  20:38:09 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3985  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:09 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3987  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:09 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3988  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:09 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:38:10 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3985  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:10 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3987  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:10 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3988  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:11 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:38:13 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:38:14 PROCESS CLOSED:
+      USER         PID     COMMAND   
+   lightdm        1285  /lib/systemd/systemd   
+
+09/08/19at  20:38:14 PROCESS CLOSED:
+      USER         PID     COMMAND   
+   lightdm        1286    (sd-pam)   
+
+09/08/19at  20:38:14 PROCESS CLOSED:
+      USER         PID     COMMAND   
+   lightdm        1292  /usr/bin/gnome-keyring-daemon  
+
+09/08/19at  20:38:14 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:38:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4622  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4624  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4625  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:17 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+    colord        4776  /usr/lib/colord/colord-sane  
+
+09/08/19at  20:38:17 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4622  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:17 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4624  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:17 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4625  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:17 USB DEVICE DISCONNECTED:
+       BUS      DEVICE          ID  NAME 
+       001        003:   045e:07fd  Microsoft Corp. Nano Transceiver 
+
+09/08/19at  20:38:19 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        4961  /lib/systemd/systemd-udevd   
+
+09/08/19at  20:38:19 USB DEVICE CONNECTED:
+       BUS      DEVICE          ID  NAME 
+       001        006:   045e:07fd  Microsoft Corp. Nano Transceiver 
+
+09/08/19at  20:38:19 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24620       18220         58%        /dev/sda4  
+
+
+09/08/19at  20:38:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5129  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5131  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5132  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+    colord        4776  /usr/lib/colord/colord-sane  
+
+09/08/19at  20:38:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root        4961  /lib/systemd/systemd-udevd   
+
+09/08/19at  20:38:22 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+    colord        5245  /usr/lib/colord/colord-sane  
+
+09/08/19at  20:38:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         167  [scsi_eh_4]  
+
+09/08/19at  20:38:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         168  [scsi_tmf_4]   
+
+09/08/19at  20:38:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         169  [usb-storage]  
+
+09/08/19at  20:38:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         171    [bioset]   
+
+09/08/19at  20:38:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5129  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5131  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5132  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:22 USB DEVICE DISCONNECTED:
+       BUS      DEVICE          ID  NAME 
+       001        002:   03f0:1a40  Hewlett-Packard    
+
+09/08/19at  20:38:22 MEDIA DISCONNECTED:
+          RAYVAZOVA
+
+09/08/19at  20:38:24 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        5407  [scsi_eh_5]  
+
+09/08/19at  20:38:24 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        5409  [scsi_tmf_5]   
+
+09/08/19at  20:38:24 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        5410  [usb-storage]  
+
+09/08/19at  20:38:24 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        5527    [bioset]   
+
+09/08/19at  20:38:24 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5541     /bin/sh   
+
+09/08/19at  20:38:24 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5543       sleep   
+
+09/08/19at  20:38:24 USB DEVICE CONNECTED:
+       BUS      DEVICE          ID  NAME 
+       001        007:   03f0:1a40  Hewlett-Packard    
+
+09/08/19at  20:38:24 NEW MEDIA CONNECTED:
+          RAYVAZOVA
+
+09/08/19at  20:38:26 PROCESS CLOSED:
+      USER         PID     COMMAND   
+    colord        5245  /usr/lib/colord/colord-sane  
+
+09/08/19at  20:38:27 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5876  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:27 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5878  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:27 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5879  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:29 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5876  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:29 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5878  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:29 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5879  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:32 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24619       18220         58%        /dev/sda4  
+
+
+09/08/19at  20:38:34 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5541     /bin/sh   
+
+09/08/19at  20:38:34 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5543       sleep   
+
+09/08/19at  20:38:34 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24620       18220         58%        /dev/sda4  
+
+
+09/08/19at  20:38:36 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6586  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:36 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6588  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:36 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6589  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6586  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6588  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6589  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:39 CHANGE IN NETWORK INTERFACE: 
+
+      Name         MTU       QDISK       STATE        MODE        QLAN   
+   wlp3s0:        2000          mq        DOWN     DORMANT        1000   
+
+OLD VALUES WERE: 
+
+      Name         MTU       QDISK       STATE        MODE        QLAN   
+   wlp3s0:        2000          mq          UP     DORMANT        1000   
+
+
+09/08/19at  20:38:41 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6921  /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor  
+
+09/08/19at  20:38:41 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+   postfix        7081      pickup   
+
+09/08/19at  20:38:41 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+   postfix        7082        qmgr   
+
+09/08/19at  20:38:41 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        7083  /usr/lib/NetworkManager/nm-dispatcher  
+
+09/08/19at  20:38:41 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root        1298  /sbin/dhclient   
+
+09/08/19at  20:38:41 PROCESS CLOSED:
+      USER         PID     COMMAND   
+   postfix        1772      pickup   
+
+09/08/19at  20:38:41 PROCESS CLOSED:
+      USER         PID     COMMAND   
+   postfix        1773        qmgr   
+
+09/08/19at  20:38:41 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:38:43 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:38:45 CHANGE IN NETWORK INTERFACE: 
+
+      Name         MTU       QDISK       STATE        MODE        QLAN   
+   wlp3s0:        2000          mq          UP     DORMANT        1000   
+
+OLD VALUES WERE: 
+
+      Name         MTU       QDISK       STATE        MODE        QLAN   
+   wlp3s0:        2000          mq        DOWN     DORMANT        1000   
+
+
+09/08/19at  20:38:46 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        7473  /sbin/dhclient   
+
+09/08/19at  20:38:46 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+        lp        7600  /usr/lib/cups/notifier/dbus  
+
+09/08/19at  20:38:46 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+        lp        7601  /usr/lib/cups/notifier/dbus  
+
+09/08/19at  20:38:46 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+   postfix        7625        qmgr   
+
+09/08/19at  20:38:46 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+   postfix        7626      pickup   
+
+09/08/19at  20:38:46 PROCESS CLOSED:
+      USER         PID     COMMAND   
+   postfix        7081      pickup   
+
+09/08/19at  20:38:46 PROCESS CLOSED:
+      USER         PID     COMMAND   
+   postfix        7082        qmgr   
+
+09/08/19at  20:38:48 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7999  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:48 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8001  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:48 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8002  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:49 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        8130  /sbin/dhclient   
+
+09/08/19at  20:38:49 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7999  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:49 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        8001  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:49 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        8002  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:54 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8565  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:54 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8567  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:54 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8568  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:56 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root        7083  /usr/lib/NetworkManager/nm-dispatcher  
+
+09/08/19at  20:38:56 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        8565  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:56 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        8567  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:56 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        8568  /usr/bin/pulseaudio  
+
+09/08/19at  20:38:59 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        9002  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:01 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        9002  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:04 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        9396  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:04 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        9398  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:04 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        9399  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:06 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        9396  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:06 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        9398  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:06 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        9399  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:09 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        9825  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:09 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        9827  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:09 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        9828  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:11 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        9825  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:11 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        9827  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:11 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        9828  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:14 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       10253  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:14 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       10255  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:14 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       10256  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:16 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       10409  /usr/lib/libreoffice/program/oosplash  
+
+09/08/19at  20:39:16 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       10253  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:16 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       10255  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:16 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       10256  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:18 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:39:19 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       10721  /usr/lib/libreoffice/program/soffice.bin   
+
+09/08/19at  20:39:20 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:39:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       10886  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       10889  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       10886  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       10889  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:25 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:39:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       11324  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       11326  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       11327  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:27 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:39:28 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       11324  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:28 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       11326  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:28 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       11327  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:30 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:39:32 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:39:33 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       11917  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:33 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       11919  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:33 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       11920  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root          40  [kworker/u8:1]   
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root          76  [kworker/u8:2]   
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         160  [kworker/u8:3]   
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         163  [kworker/u8:6]   
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         165  [kworker/u8:7]   
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root        8130  /sbin/dhclient   
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       11917  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       11919  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:35 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       11920  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root           4  [kworker/0:0]  
+
+09/08/19at  20:39:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root          24  [kworker/3:0]  
+
+09/08/19at  20:39:43 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         265  [kworker/2:2]  
+
+09/08/19at  20:39:47 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:39:49 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:39:53 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       13590  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:53 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       13592  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:53 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       13593  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:55 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       13590  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:55 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       13592  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:55 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       13593  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:58 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       14010  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:58 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       14012  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:58 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       14013  /usr/bin/pulseaudio  
+
+09/08/19at  20:39:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root          14  [kworker/1:0]  
+
+09/08/19at  20:39:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         763  [kworker/1:3]  
+
+09/08/19at  20:40:00 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       14010  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:00 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       14012  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:00 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       14013  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:11 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20102  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:11 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20104  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:11 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20105  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:13 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20102  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:13 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20104  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:13 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20105  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20901  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20903  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20904  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20901  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20903  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20904  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:24 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16212   [firefox]   
+
+09/08/19at  20:40:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16212  /usr/lib/firefox/firefox   
+
+09/08/19at  20:40:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16350   [firefox]   
+
+09/08/19at  20:40:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16355  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16357  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:26 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16358  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:26 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16212   [firefox]   
+
+09/08/19at  20:40:28 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16355  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:28 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16357  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:28 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16358  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:30 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16701  /usr/lib/x86_64-linux-gnu/gconf/gconfd-2   
+
+09/08/19at  20:40:30 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16350   [firefox]   
+
+09/08/19at  20:40:31 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16863  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:31 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16865  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:31 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       16866  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:33 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root       17030  [kworker/3:0]  
+
+09/08/19at  20:40:33 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16863  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:33 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16865  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:33 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       16866  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:33 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24621       18214         58%        /dev/sda4  
+
+
+09/08/19at  20:40:35 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24622       18213         58%        /dev/sda4  
+
+
+09/08/19at  20:40:37 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root       17335  [kworker/1:0]  
+
+09/08/19at  20:40:37 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:40:39 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24622       18212         58%        /dev/sda4  
+
+
+09/08/19at  20:40:39 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:40:40 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       17637  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:40 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       17639  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:40 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       17640  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:41 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24623       18212         58%        /dev/sda4  
+
+
+09/08/19at  20:40:42 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       17637  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:42 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       17639  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:42 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       17640  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:44 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:40:46 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:40:47 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       18233  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:47 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       18235  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:47 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       18236  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:49 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       18233  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:49 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       18235  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:49 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       18236  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:49 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:40:51 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24625       18210         58%        /dev/sda4  
+
+
+09/08/19at  20:40:51 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:40:52 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       18696  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:52 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       18698  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:52 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       18699  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:52 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24624       18211         58%        /dev/sda4  
+
+
+09/08/19at  20:40:54 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       18696  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:54 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       18698  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:54 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       18699  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:57 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19131  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:57 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19133  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:58 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19134  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:59 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19131  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:59 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19133  /usr/bin/pulseaudio  
+
+09/08/19at  20:40:59 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19134  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:01 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24625       18210         58%        /dev/sda4  
+
+
+09/08/19at  20:41:04 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19710  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:04 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19712  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:04 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19713  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:04 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24624       18211         58%        /dev/sda4  
+
+
+09/08/19at  20:41:06 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19873  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:06 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19875  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:06 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       19876  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:06 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19710  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:06 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19712  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:06 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19713  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:08 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19873  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:08 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19875  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:08 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       19876  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:13 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20448  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:13 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20450  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:13 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20451  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20448  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20450  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20451  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:18 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20868  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:18 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20870  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:18 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       20871  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20868  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20870  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:20 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       20871  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:23 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       21302  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:23 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       21304  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:23 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       21305  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:25 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       21302  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:25 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       21304  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:25 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       21305  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:28 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24634       18201         58%        /dev/sda4  
+
+
+09/08/19at  20:41:30 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24624       18211         58%        /dev/sda4  
+
+
+09/08/19at  20:41:34 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:41:35 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:41:36 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root       22332  [kworker/0:0]  
+
+09/08/19at  20:41:45 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:41:47 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:41:51 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       23593  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:51 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       23595  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:51 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       23596  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:53 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       23593  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:53 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       23595  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:53 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       23596  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:56 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       24020  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:56 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       24022  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:56 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       24023  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       24020  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       24022  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       24023  /usr/bin/pulseaudio  
+
+09/08/19at  20:41:58 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24625       18210         58%        /dev/sda4  
+
+
+09/08/19at  20:42:05 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24626       18209         58%        /dev/sda4  
+
+
+09/08/19at  20:42:11 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       25226  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:11 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       25228  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:11 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       25229  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:13 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       25226  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:13 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       25228  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:13 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       25229  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       26032  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       26034  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:21 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       26035  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       26032  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       26034  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:23 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       26035  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:29 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       26721  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:29 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       26723  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:29 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       26724  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:31 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       26721  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:31 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       26723  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:31 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       26724  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:33 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24627       18208         58%        /dev/sda4  
+
+
+09/08/19at  20:42:34 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27165  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:34 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27167  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:34 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27168  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:35 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24626       18209         58%        /dev/sda4  
+
+
+09/08/19at  20:42:36 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27321  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:36 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27323  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:36 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27324  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:36 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27165  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:36 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27167  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:36 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27168  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:38 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27321  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:38 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27323  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:38 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27324  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:39 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27650  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:39 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27652  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:39 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27653  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:41 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27799  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:41 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27801  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:41 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       27802  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:41 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27650  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:41 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27652  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:41 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27653  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:43 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27799  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:43 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27801  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:43 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       27802  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:43 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:42:45 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:42:48 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:42:50 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:42:52 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:42:53 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:42:54 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       28988  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:56 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       28988  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:59 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       29377  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:59 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       29379  /usr/bin/pulseaudio  
+
+09/08/19at  20:42:59 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       29380  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:01 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       29377  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:01 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       29379  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:01 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       29380  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:06 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:43:08 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:43:12 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       30480  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:13 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       84K    /var/tmp   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       76K    /var/tmp   
+
+09/08/19at  20:43:14 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root       30561  /lib/systemd/systemd-hostnamed   
+
+09/08/19at  20:43:14 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       30480  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:17 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       30920  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:17 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       30917  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:17 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       30918  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:19 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       30920  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:19 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       30917  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:19 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       30918  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:22 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       31335  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:22 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       31337  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:22 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       31338  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root         624  [kworker/2:3]  
+
+09/08/19at  20:43:24 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       31335  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:24 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       31337  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:24 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       31338  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:27 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       31780  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:27 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       31782  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:27 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       31783  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:29 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       31780  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:29 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       31782  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:29 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       31783  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:32 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       32219  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:32 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       32221  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:32 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       32222  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:34 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       32219  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:34 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       32221  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:34 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       32222  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:34 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24626       18208         58%        /dev/sda4  
+
+
+09/08/19at  20:43:36 OVERALL DISK SPACE USED IN MEGABYTES CHANGED:
+TOTAL SIZE        USED   AVAILABLE        USE%       FILESYSTEM 
+     45200       24627       18208         58%        /dev/sda4  
+
+
+09/08/19at  20:43:37 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       32668  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:37 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       32670  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:37 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+       32671  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:39 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       32668  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:39 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       32670  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:39 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+       32671  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:42 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+         631  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:42 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+         633  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:42 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+         635  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:44 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+         631  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:44 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+         633  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:44 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+         635  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:49 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:43:51 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:43:52 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        2039  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:52 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        2041  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:52 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        2042  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:54 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        2039  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:54 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        2041  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:54 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        2042  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:57 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        1982  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:57 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        1984  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:57 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        1985  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:59 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        1982  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:59 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        1984  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:59 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        1985  /usr/bin/pulseaudio  
+
+09/08/19at  20:43:59 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       76K    /var/tmp   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       84K    /var/tmp   
+
+09/08/19at  20:44:01 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        2390  [kworker/2:2]  
+
+09/08/19at  20:44:01 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        2507  [kworker/u8:1]   
+
+09/08/19at  20:44:01 PROCESS CLOSED:
+      USER         PID     COMMAND   
+      root       30561  /lib/systemd/systemd-hostnamed   
+
+09/08/19at  20:44:07 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3125  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:07 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3127  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:07 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3128  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:09 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3125  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:09 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3127  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:09 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3128  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:12 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3571  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:12 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3573  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:12 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        3574  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:14 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3571  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:14 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3573  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:14 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        3574  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:14 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       92K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:44:16 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       92K        /dev   
+
+09/08/19at  20:44:17 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4026  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:17 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4028  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:17 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4029  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:19 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4026  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:19 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4028  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:19 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4029  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4329  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4331  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:20 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        4332  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4329  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4331  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:22 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        4332  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:29 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       28K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       20K        /dev   
+
+09/08/19at  20:44:31 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       20K        /dev   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       28K        /dev   
+
+09/08/19at  20:44:35 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5558  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:35 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5560  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:35 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5561  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5558  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5560  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:37 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5561  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:38 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5861  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:38 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5863  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:38 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        5864  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:40 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5861  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:40 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5863  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:40 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        5864  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:43 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6290  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:43 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6292  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:43 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6293  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:45 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6290  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:45 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6292  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:45 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6293  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:48 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6717  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:48 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6719  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:48 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        6720  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:50 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6717  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:50 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6719  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:50 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        6720  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:53 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7149  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:53 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7201  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:53 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7202  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:55 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7149  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:55 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7201  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:55 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7202  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:56 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7452  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:56 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7454  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:56 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7455  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:58 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+      root        7605  /lib/systemd/systemd-hostnamed   
+
+09/08/19at  20:44:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7452  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7454  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:58 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7455  /usr/bin/pulseaudio  
+
+09/08/19at  20:44:59 USAGE FOR THE FOLLOWING DIRECTORY CHANGED TO:
+      SIZE   DIRECTORY   
+       84K    /var/tmp   
+OLD VALUES WERE:
+      SIZE   DIRECTORY   
+       76K    /var/tmp   
+
+09/08/19at  20:45:01 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7916  /usr/bin/pulseaudio  
+
+09/08/19at  20:45:01 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7918  /usr/bin/pulseaudio  
+
+09/08/19at  20:45:01 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        7919  /usr/bin/pulseaudio  
+
+09/08/19at  20:45:03 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8064  /usr/bin/pulseaudio  
+
+09/08/19at 20:45:03 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8066  /usr/bin/pulseaudio  
+
+09/08/19at 20:45:03 NEW PROCESS STARTED:
+      USER         PID     COMMAND   
+  raivazo+        8067  /usr/bin/pulseaudio  
+
+09/08/19at 20:45:03 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7916  /usr/bin/pulseaudio  
+
+09/08/19at 20:45:03 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7918  /usr/bin/pulseaudio  
+
+09/08/19at 20:45:03 PROCESS CLOSED:
+      USER         PID     COMMAND   
+  raivazo+        7919  /usr/bin/pulseaudio 
